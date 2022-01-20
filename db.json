@@ -1,60 +1,40 @@
 {
-  "accountGroupDetails": [
+  "clientData": [
     {
-      "accountGroup": "CHECKING",
-      "checkingAccountsDetails": [
-        {
-          "productName": "Business Checking",
-          "accountNickname": "My checking account",
-          "accountDescription": "Business Checking - 9594",
-          "balanceType": "ASSET",
-          "displayAccountNumber": "XXXXXX9594",
-          "accountId": "da549a7cc86472ee05272c7bd0a4483f57174f2110e7ad961a267995031fda66c6d5475de467a65739750107b621e5a01be7cc0dc085a825fa384795904293f6",
-          "currencyCode": "USD",
-          "accountStatus": "ACTIVE",
-          "currentBalance": 10000.25,
-          "availableBalance": 15000.25
-        }
-      ]
-    }
-  ],
-  "customer": {
-    "customerId": "bd12a6d89815aed77be876225b9a2c7f6648f0af82e84198f49d1b7e51a23fae1621936bc1addf5fdceca25c3aae5f92071fb1d6218dae32ca83b199c29962ee"
-  },
-  "registerNewAccount": [
-    {
-      "accountType": "Debito",
-      "displayAccountNumber": "9078653487565656",
-      "alias": "viky UX",
+      "id": 1,
+      "name": "Business Checking - 9594",
+      "balance": 1000,
+      "client": "Victoria Tejeda",
+      "cardType": "Debito",
       "MaximumAmount": 3000.00,
-      "eMail": "vicytm@gmail.com"
+      "displayAccountNumber": "9078653487565656",
+      "email": "example@mail.com",
+      "alias": "Vicky"
+
+    },
+    {
+      "id": 2,
+      "name": "Normal Checking - 9594",
+      "balance": 200,
+      "client": "Victoria Tejeda",
+      "cardType": "Debito",
+      "MaximumAmount": 3000.00,
+      "displayAccountNumber": "9078653487565656",
+      "email": "example@mail.com",
+      "alias": "Vicky"
     }
   ],
-  "transaction": [
+
+  "thirdPartyAccount": [
     {
-      "accounts": [
-          {
-            "name": "Business Checking - 9594",
-            "balance": 1000,
-            "client": "Victoria Tejeda"
-          },
-          {
-            "name": "Normal Checking - 9594",
-            "balance": 200,
-            "client": "Victoria Tejeda"
-          }
-        ],
-      "thirdPartyAccount": [
-        {
-        "name": "Business Checking - 9594",
-        "client": "Melissa Leyva"
-      }
-    ],
-      "transactionAmount": "",
-      "transactionDate": "",
-      "transactionDescription": "PRE-AUTHORIZED TRANSFER TO CHECKING PLUS",
-      "transactionId": "092484893lkj",
-      "status": "Posted"
+      "id": 2,
+      "nameAccount": "Business Checking - 9594",
+      "client": "Melissa Leyva",
+      "cardType": "Debito",
+      "MaximumAmount": 3000.00,
+      "displayAccountNumber": "9078653437545653",
+      "email": "exampleotro@mail.com",
+      "alias": "Pago tanda Melissa"
     }
   ]
 }
