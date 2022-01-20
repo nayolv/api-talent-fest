@@ -18,19 +18,18 @@
       "balance": 200,
       "client": "Victoria Tejeda",
       "cardType": "Debito",
+      "typeAccount": "Propia",
       "MaximumAmount": 3000.00,
       "displayAccountNumber": "9078653487565656",
       "email": "example@mail.com",
       "alias": "Vicky"
-    }
-  ],
-
-  "thirdPartyAccount": [
+    },
     {
-      "id": 2,
+      "id": 3,
       "nameAccount": "Business Checking - 9594",
       "client": "Melissa Leyva",
       "cardType": "Debito",
+      "typeAccount": "Tercero",
       "MaximumAmount": 3000.00,
       "displayAccountNumber": "9078653437545653",
       "email": "exampleotro@mail.com",
