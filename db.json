@@ -36,18 +36,18 @@
           {
             "name": "Business Checking - 9594",
             "balance": 1000,
-            "type": "Propia"
+            "client": "Victoria Tejeda"
           },
           {
             "name": "Normal Checking - 9594",
             "balance": 200,
-            "type": "Propia"
+            "client": "Victoria Tejeda"
           }
         ],
       "thirdPartyAccount": [
         {
         "name": "Business Checking - 9594",
-        "type": "Tercero"
+        "client": "Melissa Leyva"
       }
     ],
       "transactionAmount": "",
