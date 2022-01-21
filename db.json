@@ -8,7 +8,7 @@
       "typeAccount": true,
       "maximumAmount": 3000.00,
       "displayAccountNumber": "9078653487565656",
-      "email": "example@mail.com",
+      "email": "example@mail.com"
     },
     {
       "id": 2,
@@ -18,7 +18,7 @@
       "typeAccount": true,
       "maximumAmount": 3000.00,
       "displayAccountNumber": "9078676451264638",
-      "email": "example@mail.com",
+      "email": "example@mail.com"
     },
     {
       "id": 3,
@@ -27,7 +27,7 @@
       "typeAccount": false,
       "maximumAmount": 3000.00,
       "displayAccountNumber": "9432253738503219",
-      "email": "exampleotro@mail.com",
+      "email": "exampleotro@mail.com"
     }
   ]
 }
