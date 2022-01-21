@@ -26,7 +26,7 @@
     },
     {
       "id": 3,
-      "nameAccount": "Business Checking - 9594",
+      "name": "Business Checking - 9594",
       "client": "Melissa Leyva",
       "cardType": "Debito",
       "typeAccount": false,
