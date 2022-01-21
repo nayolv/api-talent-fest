@@ -2,7 +2,7 @@
   "clientData": [
     {
       "id": 1,
-      "name": "Business Checking - 9594",
+      "name": "Mi Cuenta Citibanamex - 9594",
       "balance": 1000,
       "client": "Victoria Tejeda",
       "cardType": "Debito",
@@ -14,13 +14,13 @@
     },
     {
       "id": 2,
-      "name": "Normal Checking - 9594",
+      "name": "Cuenta Priority Citibanamex - 8799",
       "balance": 200,
       "client": "Victoria Tejeda",
       "cardType": "Debito",
       "typeAccount": true,
       "MaximumAmount": 3000.00,
-      "displayAccountNumber": "9078653487565656",
+      "displayAccountNumber": "9078676451264638",
       "email": "example@mail.com",
       "alias": "Vicky"
     },
@@ -31,7 +31,7 @@
       "cardType": "Debito",
       "typeAccount": false,
       "MaximumAmount": 3000.00,
-      "displayAccountNumber": "9078653437545653",
+      "displayAccountNumber": "9432253738503219",
       "email": "exampleotro@mail.com",
       "alias": "Pago tanda Melissa"
     }
