@@ -5,12 +5,12 @@
       "name": "Business Checking - 9594",
       "balance": 1000,
       "client": "Victoria Tejeda",
-      "cardType": true,
+      "cardType": "Debito",
+      "typeAccount": true,
       "MaximumAmount": 3000.00,
       "displayAccountNumber": "9078653487565656",
       "email": "example@mail.com",
       "alias": "Vicky"
-
     },
     {
       "id": 2,
