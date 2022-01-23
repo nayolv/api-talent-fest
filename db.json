@@ -3,20 +3,20 @@
     {
       "id": 1,
       "name": "Mi Cuenta Citibanamex",
-      "balance": 1000,
+      "balance": 10000,
       "client": "Victoria Tejeda",
       "typeAccount": true,
-      "maximumAmount": 3000.00,
+      "maximumAmount": 3000,
       "displayAccountNumber": "9078653487565656",
       "email": "example@mail.com"
     },
     {
       "id": 2,
       "name": "Cuenta Priority Citibanamex",
-      "balance": 200,
+      "balance": 2000,
       "client": "Victoria Tejeda",
       "typeAccount": true,
-      "maximumAmount": 3000.00,
+      "maximumAmount": 5000,
       "displayAccountNumber": "9078676451264638",
       "email": "example@mail.com"
     },
@@ -25,10 +25,19 @@
       "name": "Business Checking",
       "client": "Melissa Leyva",
       "typeAccount": false,
-      "maximumAmount": 3000.00,
+      "maximumAmount": 1500,
       "displayAccountNumber": "9432253738503219",
       "email": "exampleotro@mail.com"
+    },
+    {
+      "id": 2,
+      "name": "Cuenta Básica Citibanamex",
+      "balance": 3000,
+      "client": "Victoria Tejeda",
+      "typeAccount": true,
+      "maximumAmount": 1000,
+      "displayAccountNumber": "9080457612874353",
+      "email": "example@mail.com"
     }
-    
   ]
 }
