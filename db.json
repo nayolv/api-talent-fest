@@ -3,7 +3,7 @@
     {
       "id": 1,
       "name": "Mi Cuenta Citibanamex",
-      "balance": 10000,
+      "balance": 1000,
       "client": "Victoria Tejeda",
       "typeAccount": true,
       "maximumAmount": 3000,
@@ -13,7 +13,7 @@
     {
       "id": 2,
       "name": "Cuenta Priority Citibanamex",
-      "balance": 2000,
+      "balance": 5000,
       "client": "Victoria Tejeda",
       "typeAccount": true,
       "maximumAmount": 5000,
