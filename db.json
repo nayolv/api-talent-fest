@@ -3,7 +3,7 @@
     {
       "id": 1,
       "name": "Mi Cuenta Citibanamex",
-      "balance": 1000,
+      "balance": 10000,
       "client": "Victoria Tejeda",
       "typeAccount": true,
       "maximumAmount": 3000,
@@ -23,6 +23,7 @@
     {
       "id": 3,
       "name": "Business Checking",
+      "balance": 6000,
       "client": "Melissa Leyva",
       "typeAccount": false,
       "maximumAmount": 1500,
@@ -32,7 +33,7 @@
     {
       "id": 4,
       "name": "Cuenta Básica Citibanamex",
-      "balance": 3000,
+      "balance": 8000,
       "client": "Victoria Tejeda",
       "typeAccount": true,
       "maximumAmount": 1000,
